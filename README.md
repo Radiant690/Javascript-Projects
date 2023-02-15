@@ -1,5 +1,7 @@
 # JavaScript Web Projects: 20 Projects to Build Your Portfolio
-This is a course I have taken from the ZeroToMastery line of courses. This course was called _JavaScript Web Projects: 20 Projects to Build Your Portfolio_. If you are interested in the course, you can find it [here](https://academy.zerotomastery.io/p/javascript-projects).
+➡️ My Learning of Javascript has been extremely fun. While going through the whole stage of gaining insights over it I worked on numerous projects aided practicality and further diving into concepts like DOM, API Handling and other butter of it. 
+
+😎 P.S, Though I have worked on several pet projects the one that felt the most experiental was Drag and Drop Kanban.
 
 I am going to use this repo as a way to gather all the product repos in one place. This way, if you interested in any specific project, you can find all of them in one place instead of searching through my entire GitHub profile.
 
